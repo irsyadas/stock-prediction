@@ -2,7 +2,7 @@
 Stock Prediction based on historical stock dataset (16 Sep 2010 - 14 Sep 2020) of PT Bank BTPN Tbk in Indonesia. Dataset obtained from Yahoo Finance.
 
 ## Libraries
-Run pip install or conda install to install following libraries:
+Run pip or conda to install following libraries:
 1. pandas
 2. numpy
 3. matplotlib
